@@ -71,7 +71,11 @@ the term "modification".)  Each licensee is addressed as "you".
 
 Activities other than copying, distribution and modification are not
 covered by this License; they are outside its scope.  The act of
+<<<<<<< HEAD
 running the program is not restricted, and the output from the program
+=======
+running the Program is not restricted, and the output from the Program
+>>>>>>> 9cebd88f4ca1196948900f703f28d3e3017f8594
 is covered only if its contents constitute a work based on the
 Program (independent of having been made by running the Program).
 Whether that is true depends on what the Program does.
@@ -117,8 +121,14 @@ and can be reasonably considered independent and separate works in
 themselves, then this License, and its terms, do not apply to those
 sections when you distribute them as separate works.  But when you
 distribute the same sections as part of a whole which is a work based
+<<<<<<< HEAD
 on the Program, the distribution of the whole must make the other
 licenses reach all the material employed in that work.
+=======
+on the Program, the distribution of the whole must be on the terms of
+this License, whose permissions for other licensees extend to the
+entire whole, and thus to each and every part regardless of who wrote it.
+>>>>>>> 9cebd88f4ca1196948900f703f28d3e3017f8594
 
 Thus, it is not the intent of this section to claim rights or contest
 your rights to work written entirely by you; rather, the intent is to
@@ -203,7 +213,11 @@ License and any other pertinent obligations, then as a consequence you
 may not distribute the Program at all.  For example, if a patent
 license would not permit royalty-free redistribution of the Program by
 all those who receive copies directly or indirectly through you, then
+<<<<<<< HEAD
 the only way you want to satisfy both it and this License would be to
+=======
+the only way you could satisfy both it and this License would be to
+>>>>>>> 9cebd88f4ca1196948900f703f28d3e3017f8594
 refrain entirely from distribution of the Program.
 
 If any portion of this section is held invalid or unenforceable under
@@ -211,7 +225,11 @@ any particular circumstance, the balance of the section is intended to
 apply and the section as a whole is intended to apply in other
 circumstances.
 
+<<<<<<< HEAD
 It is not the intent of this section to induce you to infringe any
+=======
+It is not the purpose of this section to induce you to infringe any
+>>>>>>> 9cebd88f4ca1196948900f703f28d3e3017f8594
 patents or other property right claims or to contest validity of any
 such claims; this section has the sole purpose of protecting the
 integrity of the free software distribution system, which is
@@ -251,14 +269,23 @@ programs whose distribution conditions are different, write to the author
 to ask for permission.  For software which is copyrighted by the Free
 Software Foundation, write to the Free Software Foundation; we sometimes
 make exceptions for this.  Our decision will be guided by the two goals
+<<<<<<< HEAD
 of preserving the status of all free software and of promoting the sharing
 and reuse of software generally.
+=======
+of preserving the free status of all derivatives of our free software and
+of promoting the sharing and reuse of software generally.
+>>>>>>> 9cebd88f4ca1196948900f703f28d3e3017f8594
 
                             NO WARRANTY
 
   11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
 FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN
+<<<<<<< HEAD
 OTHERWISE STATED IN WRITING THE FREE SOFTWARE FOUNDATION AND/OR OTHER PARTIES
+=======
+OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
+>>>>>>> 9cebd88f4ca1196948900f703f28d3e3017f8594
 PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
 OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
 MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS
@@ -313,12 +340,22 @@ when it starts in an interactive mode:
 
     Gnomovision version 69, Copyright (C) year name of author
     Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+<<<<<<< HEAD
     This is free software, and you may redistribute it under certain
     conditions; type `show c' for details.
 
 The hypothetical commands `show w' and `show c' should show the appropriate
 parts of the General Public License.  Of course, the commands you use may
 be called something other than `show w' and `show c'; they are merely examples.
+=======
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
+
+The hypothetical commands `show w' and `show c' should show the appropriate
+parts of the General Public License.  Of course, the commands you use may
+be called something other than `show w' and `show c'; they could even be
+mouse-clicks or menu items--whatever suits your program.
+>>>>>>> 9cebd88f4ca1196948900f703f28d3e3017f8594
 
 You should also get your employer (if you work as a programmer) or your
 school, if any, to sign a "copyright disclaimer" for the program, if
@@ -334,4 +371,8 @@ This General Public License does not permit incorporating your program into
 proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
+<<<<<<< HEAD
 Public License instead of this License.
+=======
+Public License instead of this License.
+>>>>>>> 9cebd88f4ca1196948900f703f28d3e3017f8594
